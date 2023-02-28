@@ -9,7 +9,7 @@ import english from '../../assets/usa.svg'
 import darklocation from '../../assets/darkphone.svg'
 import darkphone from '../../assets/darklocation.svg'
 import darkEmail from '../../assets/darkEmail.svg'
-import herbrew from '../../assets/israelFlag.svg'
+import herbrew from '../../assets/israel.svg'
 
 
 
