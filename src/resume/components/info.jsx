@@ -4,11 +4,12 @@ import phone from '../../assets/phone.svg'
 import adress from '../../assets/adress.svg'
 import linkedin from '../../assets/linkedin.svg'
 import git from '../../assets/github.svg'
-import herbrew from '../../assets/israel.svg'
+
 import english from '../../assets/usa.svg'
 import darklocation from '../../assets/darkphone.svg'
 import darkphone from '../../assets/darklocation.svg'
 import darkEmail from '../../assets/darkEmail.svg'
+import herbrew from '../../assets/israel.svg'
 
 
 
