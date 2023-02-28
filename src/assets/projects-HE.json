@@ -4,7 +4,8 @@
         "title":"תסביר לילד בן 6",
         "description":"הסבדר לילד בן 6",
         "img": "images/explained2a6yo.png",
-        "linkNice":"apple.com",
+        "link":"https://open-ai-explainedbyage.vercel.app/",
+        "linkNice":"Explaine2A6Y/O",
         "stack":["SVELTE", "Open AI"]
 
 
@@ -39,7 +40,7 @@
         "description":"this is a python keylogger thaat could be trafer into a exe file and be used as a virus using pyinstaller, the virus start running in the background(no terminal) and continuesly sending the keylog to a server every hour, then in the server there is a train ML model that give a classification to the person recent activitys, such as political, comedy, CRIME, sport, health and more(second project)",
         "img": "images/explained2a6yo.png",
         "link":"",
-        "linkNice":"no line",
+        "linkNice":"not for the public",
 
         "stack":["python", "sklearn", "Express", "Node js", "pyinstaller"]
 
