@@ -1,0 +1,49 @@
+[
+    {
+        "topic":"Idea",
+        "title":"Explained to a 6 Y/O",
+        "description":"using the open ai model, with specific setting and a comftorable ui to ask quetion and get answers",
+        "img": "images/explained2a6yo.png",
+        "linkNice":"apple.com",
+        "stack":["SVELTE", "Open AI"]
+
+
+    },
+    {
+        "topic":"School Project",
+        "title":"Investing just got simple",
+        "description":" a full size react app, using the MERN tech stack.  appling advance security, peformance and design principles, as part of my finals project in high school(one of two)",
+        "img": "images/stockhub.png",
+        "link":"https://stockhub-ubr4.vercel.app/home",
+        "linkNice":"stockhub-ubr4.vercel.app",
+
+        "stack":["react", "mongo db", "Express", "scss", "Node js"]
+
+
+    },
+    {
+        "topic":"Personal Project",
+        "title":"outdoor Feedback system ",
+        "description":"a intuitive and easy to use system for both the company and the clients, the system was cutom built for a comapny.the idea is to leave feed back for a park the client is at with the use of a qr code, the system generate the custom qr code for each park and gives the comapny a overview and underatading of the feedbacks",
+        "img": "images/urbanix.png",
+        "link":"",
+        "linkNice":"in development...",
+
+        "stack":["vite js", "mongo db", "Express", "scss", "Node js"]
+
+
+    },
+    {
+        "topic":"School Project",
+        "title":"Keylogger virus with a classification ML",
+        "description":"this is a python keylogger thaat could be trafer into a exe file and be used as a virus using pyinstaller, the virus start running in the background(no terminal) and continuesly sending the keylog to a server every hour, then in the server there is a train ML model that give a classification to the person recent activitys, such as political, comedy, CRIME, sport, health and more(second project)",
+        "img": "images/keylogger.PNG",
+        "link":"",
+        "linkNice":"no line",
+
+        "stack":["python", "sklearn", "Express", "Node js", "pyinstaller"]
+
+
+    }
+
+]
