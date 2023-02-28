@@ -281,6 +281,7 @@ body {
     img{
         margin-bottom: calc(var(--ratio) * 0.1em);
         width: calc(var(--ratio) * 0.5em);
+        border: 5em;
     }
         p{
             font-size: calc(var(--ratio) * 0.15em);

@@ -1,6 +1,7 @@
 import React from "react";
-import Avatar from '@mui/material/Avatar';
-import img from '../../assets/image.svg'
+
+import img from '../../assets/userx.png'
+
 
 
 
@@ -13,6 +14,7 @@ export default function Header(props){
         <div className="header">
 
             <img src={img} />
+           
       
             <p className=" name">or cohen</p>
             <p className=" roll">full stack dev</p>
