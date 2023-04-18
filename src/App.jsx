@@ -6,7 +6,7 @@ import Resume from './resume/resume'
 
 function App() {
   const [mode, setmode ] = useState(true)
-  const [language, setlanguage ] = useState(false)
+  const [language, setlanguage ] = useState(true)
 
   //var storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     // if (storedTheme){

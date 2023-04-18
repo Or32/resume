@@ -40,7 +40,16 @@ export default function Content(props){
             <ul>
 
                 <li><div className="topic"><img className="step" src={img} onClick={()=> setchecked(!checked)}></img> <p className="step" onClick={()=> setchecked(!checked)}>{props.language ? "profile" : "פרופיל"}</p> </div>   <Collapse className="collapses" in={checked}>
-                  <div className="about" >  { props.language ? <p className="en">hi my name is or cohen dsfsdfds diofjsdifds dsfjdsfds fjsdf sdjfdsjf dsjfbdsf dsfiodsnf d foidsnfjkds fjkndsf sdkjfbnids fdsif dsif dsi fids </p> : <p className="he">שלום קוראים לי אור כ dshi my name is or cohen dsfsdfds diofjsdifds dsfjdsfds fjsdf sdjfdsjf dsjfbdsf dsfiodsnf d foidsnfjkds fjkndsf sdkjfbnids fdsif dsif dsi fidsהן</p>} </div>
+                  <div className="about" >  { props.language ? <p className="en">Hi, I'm or cohen, an 18-year-old currently majoring in physics and computer science in high school. I have a strong passion for learning and exploring new technologies, and much of my computer science study has been self-directed. I consider myself an autodidact and love the challenge of teaching myself new skills and concepts.
+
+While I have dabbled in various areas of computer science, my current focus is on web development with React. I have spent a significant amount of time learning and practicing web app development, and have completed several personal projects using React. I am constantly seeking new ways to improve my skills and build my portfolio.
+
+In addition to my technical skills, I have developed strong problem-solving and analytical skills through my studies in physics and computer science. I am also a dedicated and hardworking individual, and am committed to achieving my goals and constantly challenging myself.
+                  </p> : <p className="he">היי, אני או כהן, ילד בן 18 שמתמחה כיום בפיזיקה ומדעי המחשב בתיכון. יש לי תשוקה עזה ללמוד ולחקור טכנולוגיות חדשות, וחלק גדול מלימודי מדעי המחשב הועבר בעצמי. אני מחשיב את עצמי כאוטודידקט ואוהב את האתגר ללמד את עצמי מיומנויות ומושגים חדשים.
+
+בעוד שהתעסקתי בתחומים שונים של מדעי המחשב, ההתמקדות שלי כרגע היא בפיתוח אתרים עם React. ביליתי הרבה זמן בלמידה ותרגול של פיתוח אפליקציות אינטרנט, והשלמתי מספר פרויקטים אישיים באמצעות React. אני כל הזמן מחפש דרכים חדשות לשפר את הכישורים שלי ולבנות את תיק העבודות שלי.
+
+בנוסף לכישורי הטכניים, פיתחתי מיומנויות חזקות של פתרון בעיות ואנליטיות במהלך לימודיי בפיזיקה ומדעי המחשב. אני גם אדם מסור וחרוץ, ומחויב להגשים את המטרות שלי ולאתגר את עצמי כל הזמן.</p>} </div>
                
                   </Collapse></li>
                 <li><div className="topic"><img className="step" src={img} onClick={()=> setchecked1(!checked1)}></img> <p className="step" onClick={()=> setchecke1(!checked1)}>{props.language ? "recent projects" : "פרויקטים אחרונים"}</p> </div>   
