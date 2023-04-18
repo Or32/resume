@@ -43,7 +43,7 @@ export default function Resume(props){
             counter += 10;
             console.log(counter);
             document.documentElement.style
-    .setProperty('--ratio', transition(counter/1000) );
+    .setProperty('--ratio', transition(counter/10000) );
     setfinish(true)
 
             if (counter >= 3000) {

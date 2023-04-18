@@ -48,7 +48,7 @@ export default function Info(props){
             <div className="text"><p>github</p><h3>https://github.com/Or32</h3> 
             </div></li>
 
-            <li className="row"><a href="https://www.linkedin.com/in/or-cohen-369685227/" target="_blank"><img src={linkedin}></img></a>
+            <li className="row"><a href="https://www.linkedin.com/in/cohen0r/" target="_blank"><img src={linkedin}></img></a>
             <div className="text">
             <p>Linkedin</p><h3>or-cohen-369685227</h3>
             </div></li>
