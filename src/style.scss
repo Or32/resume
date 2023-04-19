@@ -495,7 +495,7 @@ body {
                     
                 }
                 img.step{
-       
+                    cursor: pointer;
                     width:  calc(var(--ratio) * 0.2em);
                     height:  calc(var(--ratio) * 0.2em);
                     position: relative;

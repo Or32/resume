@@ -275,6 +275,7 @@ body {
 .resume .left .header img, .resume-after .left .header img {
   margin-bottom: calc(var(--ratio) * 0.1em);
   width: calc(var(--ratio) * 0.5em);
+  border: 5em;
 }
 
 .resume .left .header p, .resume-after .left .header p {
@@ -523,6 +524,7 @@ body {
 }
 
 .right .content ul img.step {
+  cursor: pointer;
   width: calc(var(--ratio) * 0.2em);
   height: calc(var(--ratio) * 0.2em);
   position: relative;
